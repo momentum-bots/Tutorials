@@ -1,0 +1,2 @@
+pyTelegramBotApi
+pymongo
